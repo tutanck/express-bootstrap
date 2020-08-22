@@ -14,9 +14,6 @@ dotenv.config();
 require('express-async-errors'); // Global error handler
 
 const usersRouter = require('./routes/users');
-const centersRouter = require('./routes/centers');
-const ratesRouter = require('./routes/ec_rates');
-const commentsRouter = require('./routes/ec_comments');
 const error_handlers = require('./middlewares/error-handlers');
 
 // constants
@@ -53,9 +50,6 @@ app.use(express.static(path.join(__dirname, '../build')));
 
 // mount routers middlewares
 app.use('/users', usersRouter);
-app.use('/centers', centersRouter);
-app.use('/comments', commentsRouter);
-app.use('/rates', ratesRouter);
 
 // mount error handlers middlewares
 /* /!\ SHOULD ALLWAYS BE THE LAST MOUNT !!! */
