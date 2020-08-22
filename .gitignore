@@ -28,6 +28,3 @@ yarn-error.log*
 # tools
 .history
 .vscode
-
-# others
-drepakin-secret
