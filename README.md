@@ -37,7 +37,7 @@ npm run test
 
 * Twitter: [@tutanck](https://twitter.com/tutanck)
 * Github: [@tutanck](https://github.com/tutanck)
-* LinkedIn: [@joan-anagbla-90628250](https://linkedin.com/in/joan-anagbla-90628250)
+* LinkedIn: [@tutanck](https://linkedin.com/in/joan-anagbla-90628250)
 
 ## 🤝 Contributing
 
