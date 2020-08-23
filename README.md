@@ -13,9 +13,11 @@
 
 > Homemade bootsrap for express apps
 
-## Install
+## [Update package.json](https://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version) and install
 
 ```sh
+npm i -g npm-check-updates
+ncu -u
 npm install
 ```
 
@@ -35,13 +37,13 @@ npm run test
 
 👤 **tutanck**
 
-* Twitter: [@tutanck](https://twitter.com/tutanck)
-* Github: [@tutanck](https://github.com/tutanck)
-* LinkedIn: [@tutanck](https://linkedin.com/in/joan-anagbla-90628250)
+- Twitter: [@tutanck](https://twitter.com/tutanck)
+- Github: [@tutanck](https://github.com/tutanck)
+- LinkedIn: [@tutanck](https://linkedin.com/in/joan-anagbla-90628250)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/tutanck/express-bootstrap/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/tutanck/express-bootstrap/issues).
 
 ## Show your support
 
@@ -51,5 +53,6 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
